@@ -1,11 +1,13 @@
 ### Welcom To My HomePagee 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 I currently aim to be a Full-Stack Engineer.
 - 🔭 I’m currently working on VMware
 - 🌱 I’m currently learning React + Django
 - 📫 How to reach me: zhang_steven#@outlook.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=panmax&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 ![dino1.gif](https://i.loli.net/2020/08/09/WKEZMovtnpDdOCs.gif)
 
