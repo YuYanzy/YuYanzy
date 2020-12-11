@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcom To My HomePagee 👋
+
+I currently ami to be a Full-Stack Engineer.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=panmax&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ![dino1.gif](https://i.loli.net/2020/08/09/WKEZMovtnpDdOCs.gif)
 
