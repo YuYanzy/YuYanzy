@@ -1,10 +1,11 @@
 ### Welcom To My HomePagee 👋
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<br/>
 <img width="16"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy&layout=compact"/>
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy&layout=compact"/>
+
+
 I currently aim to be a Full-Stack Engineer.
 - 🔭 I’m currently working on VMware
 - 🌱 I’m currently learning React + Django
@@ -12,7 +13,7 @@ I currently aim to be a Full-Stack Engineer.
 
 
 
-![dino1.gif](https://i.loli.net/2020/08/09/WKEZMovtnpDdOCs.gif)
+
 
 <!--
 **YuYanzy/YuYanzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
