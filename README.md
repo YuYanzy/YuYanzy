@@ -5,16 +5,16 @@
 </div>
 <br/>
 <div>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy"/>
 </div>
 <br/>
 
-
+<div>
 I currently aim to be a Full-Stack Engineer.
 - 🔭 I’m currently working on VMware
 - 🌱 I’m currently learning React + Django
 - 📫 How to reach me: zhang_steven#@outlook.com
-
+</div>
 
 
 
