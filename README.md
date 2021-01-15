@@ -1,10 +1,14 @@
 ### Welcom To My HomePagee 👋
 
-
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+</div>
 <br/>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy&layout=compact"/>
+<div>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyanzy"/>
+</div>
 <br/>
+
 
 I currently aim to be a Full-Stack Engineer.
 - 🔭 I’m currently working on VMware
