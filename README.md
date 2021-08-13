@@ -13,7 +13,7 @@
 
 
 I currently aim to be a Full-Stack Engineer.
-- 🔭 I’m currently working on VMware
+- 🔭 I’m currently seeking for 2022 internship.
 - 🌱 I’m currently learning React + Django
 - 📫 How to reach me: zhang_steven#@outlook.com
 
