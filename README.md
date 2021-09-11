@@ -1,25 +1,18 @@
 ### Welcom To My HomePagee 👋
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-</div>
-
-
-
-
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&hide_title=true&hide_border=true" />
 <br/>
 
+I am a student who are practicing "The Superior Man is not a utensil" and tries to explore every corner of computer engineering. (ECE student can do anything!)
 
-I currently aim to be a Full-Stack Engineer.
-- 🔭 I’m currently seeking for 2022 internship.
-- 🌱 I’m currently learning React + Django
+- 🔭 I am currently aiming to become a **Full-stack Engineer** and am actively looking for internship opportunities in 2022 summer
+- 👨‍💻 I’m currently learning Typescript + Vue + Django
+- 🎮 Overwatch player with the highest competitive score of 3496 in support
+- 📄 Here's my resume [yuyanzy.github.io](https://yuyanzy.github.io).
 - 📫 How to reach me: zhang_steven#@outlook.com
 
 
-
-
+ <img  align="center" src="https://github-profile-trophy.vercel.app/?username=yuyanzy&no-bg=true"/>
+  
 
 <!--
 **YuYanzy/YuYanzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
