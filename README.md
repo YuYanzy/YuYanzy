@@ -2,6 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyanzy&show_icons=true&hide_title=true&hide_border=true" />
 <br/>
 
+
 I am a student who are practicing "The Superior Man is not a utensil" and tries to explore every corner of computer engineering. (ECE student can do anything!)
 
 - 🔭 I am currently aiming to become a **Full-stack Engineer** and am actively looking for internship opportunities in 2022 summer
@@ -9,9 +10,9 @@ I am a student who are practicing "The Superior Man is not a utensil" and tries 
 - 🎮 Overwatch player with the highest competitive score of 3496 in support
 - 📄 Here's my resume [yuyanzy.github.io](https://yuyanzy.github.io).
 - 📫 How to reach me: zhang_steven#@outlook.com
+  
+<img align="center" src="./Ana.gif">
 
-
- <img  align="center" src="https://github-profile-trophy.vercel.app/?username=yuyanzy&no-bg=true"/>
   
 
 <!--
