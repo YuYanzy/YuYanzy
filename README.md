@@ -8,7 +8,7 @@ Hi! I'm Yu Zhang, a student who are practicing "The Superior Man is not a utensi
 - 🔭 I am currently aiming to become a **Full-stack Engineer** and am actively looking for internship opportunities in 2022 summer
 - 👨‍💻 I’m currently learning Typescript + Vue + Django
 - 🎮 Overwatch player with the highest competitive score of 3496 in support
-- 📄 Here's my resume [yuyanzy.github.io](https://yuyanzy.github.io).
+- 📄 Here's my [resume](https://yuyanzy.github.io/files/resume/en.pdf).
 - 📫 How to reach me: zhang_steven#@outlook.com
 
 <img align="right" margin-bottom="-100px" src="./Ana.gif" width="120" height="120">
