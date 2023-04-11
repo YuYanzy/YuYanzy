@@ -6,8 +6,6 @@
 Hi! I'm Steven Zhang
 
 
-<img align="right" margin-bottom="-100px" src="./Ana.gif" width="120" height="120">
-
 
 
 
